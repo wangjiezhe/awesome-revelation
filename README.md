@@ -6,7 +6,8 @@ This is a fork from [revelation](https://github.com/bioe007/awesome-revelation)
 It is modified from the original revelation.lua for incorperating with awesome 3.5 or later. 
 It also have some features.  
 
-**Stable branch is only working with stable verions of awesome, 3.5.6**
+**Stable branch is only working with stable verions of awesome, 3.5.6.**
+
 **For awesome master version, please checkout master branch of revelation**
 
 ## Changes since 2014-02-19
