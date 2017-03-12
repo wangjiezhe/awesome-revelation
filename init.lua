@@ -5,7 +5,7 @@
 -- @author Perry Hargrave resixian@gmail.com
 -- @author Espen Wiborg espenhw@grumblesmurf.org
 -- @author Julien Danjou julien@danjou.info
--- @auther Quan Guo guotsuan@gmail.com
+-- @author Quan Guo guotsuan@gmail.com
 --
 -- @copyright 2008 Espen Wiborg, Julien Danjou
 -- @copyright 2015 Quan Guo
