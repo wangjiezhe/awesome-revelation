@@ -6,6 +6,7 @@
 -- @author Espen Wiborg espenhw@grumblesmurf.org
 -- @author Julien Danjou julien@danjou.info
 -- @author Quan Guo guotsuan@gmail.com
+-- @author Jiezhe Wang wangjiezhe@gmail.com
 --
 -- @copyright 2008 Espen Wiborg, Julien Danjou
 -- @copyright 2015 Quan Guo
@@ -85,6 +86,7 @@ local revelation = {
         fullscreen           = false,
         maximized_horizontal = false,
         maximized_vertical   = false,
+        maximized            = false,
         sticky               = false,
         ontop                = false,
         above                = false,
